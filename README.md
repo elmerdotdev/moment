@@ -16,7 +16,7 @@ Moment.js is a legacy project, now in maintenance mode.  In most cases, you shou
 
 For more details and recommendations, please see [Project Status](https://momentjs.com/docs/#/-project-status/) in the docs.
 
-*Thank you.*
+*Thank you!!!!!!!!!!!!!!*
 
 ## Resources
 
